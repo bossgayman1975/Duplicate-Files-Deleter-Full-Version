@@ -232,4 +232,4 @@ This repository serves as the official landing page for Duplicate Files Deleter.
 **Get the most recent version of Duplicate Files Deleter today!**
 
 ---
-**Last updated:** 2026-10-21 05:26:25 UTC
+**Last updated:** 2026-10-21 10:41:15 UTC
